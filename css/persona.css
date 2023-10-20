@@ -1,7 +1,10 @@
+body{
+    margin: 0;
+}
 .sign-company{
     margin-top: 0;
     padding: 0;
-    background: url(../img/fondo4.png) no-repeat center top;
+    background: grey;
     background-size: cover;
     font-family: sans-serif;
     height: 120vh;
